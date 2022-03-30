@@ -2,6 +2,10 @@
 
 This is a [homebrew](https://brew.sh/) tap with casks for outdated sketch versions.
 
+## Why does this exist
+
+Sketch has a legacy licensing system where your Sketch license can only activate a specific version. When downloading the most recent Sketch version from homebrew, I found that my license key was outdated, so I wasn't able to use the latest version of Sketch. I wanted an easy way to download outdated versions, so I created this tap and released it publically so that anyone else with the same problem can benefit from the tap. 
+
 ## How do I install these formulae?
 
 After you [install Homebrew](https://docs.brew.sh/Installation), run the following command:
